@@ -7,4 +7,4 @@
 
 支持代理
 
-# 接触: 
+# 接触: https://t.me/johnreal01
