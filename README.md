@@ -10,3 +10,17 @@ Instagram 帐户创建者
 
 # 接触: 
 https://t.me/johnreal01
+
+# Создатель аккаунта Instagram
+
+Создать аккаунт Instagram с автоматическим подтверждением
+
+✔️Полный запрос
+
+✔️Web Mobile iOS API
+
+✔️Агент поддержки
+
+# Контакт:
+
+https://t.me/johnreal01
